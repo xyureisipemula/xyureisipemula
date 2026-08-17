@@ -1,1 +1,4 @@
-https://camo.githubusercontent.com/13baeec5367b0cf1cfa9091ec555edf903d9c4f6241def5f66d964fdd4ef4fd2/68747470733a2f2f6768732e74696e656f2e6d792e69642f6170692f746f702d6c616e67732f3f757365726e616d653d59757461466f725361797526686964653d68746d6c253243637373253243656a732532436861636b266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130266c6f63616c653d656e2662675f636f6c6f723d306431313137267469746c655f636f6c6f723d62393163316326746578745f636f6c6f723d6535653565352669636f6e5f636f6c6f723d62393163316326626f726465725f636f6c6f723d3165316531652672696e675f636f6c6f723d623931633163
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyureisipemula&show_icons=true&bg_color=0d1117&title_color=b91c1c&text_color=e5e5e5&icon_color=b91c1c&border_color=1e1e1e" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyureisipemula&hide=html,css,ecmascript,check&layout=compact&langs_count=10&locale=en&bg_color=0d1117&title_color=b91c1c&text_color=e5e5e5&icon_color=b91c1c&border_color=1e1e1e&ring_color=b91c1c" />
+</p>
